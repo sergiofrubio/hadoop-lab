@@ -1,0 +1,300 @@
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.
+Hadoop es un framework de codigo abierto para almacenar y procesar grandes volumenes de datos.
+HDFS reparte los ficheros en bloques y los replica entre los nodos del cluster.
+YARN gestiona los recursos del cluster y planifica las aplicaciones.
+MapReduce procesa los datos en paralelo con una fase map y una fase reduce.
+Hive permite consultar los datos con SQL y Hue ofrece una interfaz web para trabajar con ellos.
+Jupyter permite explorar los datos con Python de forma interactiva.

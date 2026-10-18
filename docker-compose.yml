@@ -1,0 +1,213 @@
+name: hadoop-lab
+
+# Entorno de aprendizaje Big Data: HDFS + YARN + Hive + Hue + Jupyter
+# Requisitos: Docker con >= 8 GB de RAM asignados.
+
+x-hadoop: &hadoop
+  image: apache/hadoop:3.3.6
+  env_file:
+    - ./hadoop.env
+  networks:
+    - bigdata
+  restart: unless-stopped
+
+services:
+  # ---------------------------------------------------------------- HDFS
+  namenode:
+    <<: *hadoop
+    container_name: namenode
+    hostname: namenode
+    user: root
+    command: ["hdfs", "namenode"]
+    environment:
+      # Formatea el NameNode solo la primera vez (si el directorio no existe)
+      ENSURE_NAMENODE_DIR: /hadoop/dfs/name
+    ports:
+      - "9870:9870"   # UI NameNode
+    volumes:
+      - namenode-data:/hadoop/dfs
+      - ./data:/data
+    healthcheck:
+      test: ["CMD-SHELL", "hdfs dfs -test -d / || exit 1"]
+      interval: 15s
+      timeout: 30s
+      retries: 20
+      start_period: 30s
+
+  datanode:
+    <<: *hadoop
+    container_name: datanode
+    hostname: datanode
+    user: root
+    command: ["hdfs", "datanode"]
+    ports:
+      - "9864:9864"   # UI DataNode
+    volumes:
+      - datanode-data:/hadoop/dfs
+    depends_on:
+      namenode:
+        condition: service_healthy
+
+  # Tarea puntual: crea directorios base en HDFS y termina
+  hdfs-init:
+    <<: *hadoop
+    container_name: hdfs-init
+    restart: "no"
+    user: root
+    command:
+      - bash
+      - -c
+      - |
+        set -e
+        until hdfs dfsadmin -report 2>/dev/null | grep -q "Live datanodes (1)"; do
+          echo "Esperando al DataNode..."; sleep 5
+        done
+        hdfs dfsadmin -safemode wait
+        hdfs dfs -mkdir -p /tmp /user /user/hive/warehouse /datasets
+        hdfs dfs -chmod -R 777 /tmp /user /datasets
+        echo "HDFS listo"
+    depends_on:
+      namenode:
+        condition: service_healthy
+      datanode:
+        condition: service_started
+
+  # ---------------------------------------------------------------- YARN
+  resourcemanager:
+    <<: *hadoop
+    container_name: resourcemanager
+    hostname: resourcemanager
+    command: ["yarn", "resourcemanager"]
+    ports:
+      - "8088:8088"   # UI YARN
+    depends_on:
+      namenode:
+        condition: service_healthy
+
+  nodemanager:
+    <<: *hadoop
+    container_name: nodemanager
+    hostname: nodemanager
+    command: ["yarn", "nodemanager"]
+    ports:
+      - "8042:8042"   # UI NodeManager
+    depends_on:
+      - resourcemanager
+
+  # ---------------------------------------------------------------- Hive
+  postgres:
+    image: postgres:15-alpine
+    container_name: hive-postgres
+    environment:
+      POSTGRES_DB: metastore_db
+      POSTGRES_USER: hive
+      POSTGRES_PASSWORD: hive
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    networks:
+      - bigdata
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U hive -d metastore_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  hive-metastore:
+    build: ./hive
+    image: hadoop-lab/hive:4.0.0
+    container_name: hive-metastore
+    hostname: hive-metastore
+    environment:
+      SERVICE_NAME: metastore
+      DB_DRIVER: postgres
+      SERVICE_OPTS: >-
+        -Xmx512m
+        -Djavax.jdo.option.ConnectionDriverName=org.postgresql.Driver
+        -Djavax.jdo.option.ConnectionURL=jdbc:postgresql://postgres:5432/metastore_db
+        -Djavax.jdo.option.ConnectionUserName=hive
+        -Djavax.jdo.option.ConnectionPassword=hive
+    volumes:
+      - ./hive/hive-site.xml:/opt/hive/conf/hive-site.xml:ro
+    networks:
+      - bigdata
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      hdfs-init:
+        condition: service_completed_successfully
+
+  hive-server:
+    build: ./hive
+    image: hadoop-lab/hive:4.0.0
+    container_name: hive-server
+    hostname: hive-server
+    environment:
+      SERVICE_NAME: hiveserver2
+      IS_RESUME: "true"
+      HIVE_SERVER2_THRIFT_PORT: 10000
+      SERVICE_OPTS: >-
+        -Xmx1g
+        -Dhive.metastore.uris=thrift://hive-metastore:9083
+    ports:
+      - "10000:10000"   # JDBC / Thrift
+      - "10002:10002"   # UI HiveServer2
+    volumes:
+      - ./hive/hive-site.xml:/opt/hive/conf/hive-site.xml:ro
+      - ./data:/data:ro
+    networks:
+      - bigdata
+    restart: unless-stopped
+    depends_on:
+      - hive-metastore
+
+  # ---------------------------------------------------------------- Hue
+  hue:
+    image: gethue/hue:latest
+    container_name: hue
+    hostname: hue
+    user: root
+    entrypoint: ["/bin/bash", "/entrypoint.sh"]
+    ports:
+      - "8888:8888"   # UI Hue
+    volumes:
+      - ./hue/entrypoint.sh:/entrypoint.sh:ro
+      - ./hue/hue.ini:/usr/share/hue/desktop/conf/z-hue.ini:ro
+      - hue-data:/usr/share/hue/desktop/hue-db
+    networks:
+      - bigdata
+    restart: unless-stopped
+    depends_on:
+      - hive-server
+      - namenode
+
+  # ---------------------------------------------------------------- Jupyter
+  jupyter:
+    build: ./jupyter
+    image: hadoop-lab/jupyter:latest
+    container_name: jupyter
+    hostname: jupyter
+    environment:
+      JUPYTER_TOKEN: ""
+    command: ["start-notebook.py", "--IdentityProvider.token=", "--ServerApp.token=", "--ServerApp.password="]
+    ports:
+      - "8889:8888"   # UI Jupyter (sin token)
+    volumes:
+      - ./notebooks:/home/jovyan/work
+      - ./data:/home/jovyan/data
+    networks:
+      - bigdata
+    restart: unless-stopped
+    depends_on:
+      - hive-server
+
+networks:
+  bigdata:
+    name: bigdata
+
+volumes:
+  namenode-data:
+  datanode-data:
+  postgres-data:
+  hue-data:
